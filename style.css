@@ -1,0 +1,25 @@
+body{
+
+    background: linear-gradient( #ffa600 0% , #99ff00 100%);
+}
+
+#scoretag{
+
+    font-size: 50px;
+    text-align: left;
+    margin-left: 30px;
+}
+
+#timertag{
+
+    font-size: 50px;
+    float: right;
+    margin-right: 30px;
+}
+
+#sketchtobedrawn{
+
+    color: red;
+    font-size: 50px;
+    
+}
